@@ -1,0 +1,12 @@
+:root{
+  --body-theme: #d5d5d5;
+}
+
+body{
+  background-color: var(--body-theme);
+}
+
+.bg-img{
+  background-image: url(//placehold.it/600x360);
+  background-size: cover;
+}
