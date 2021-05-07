@@ -6,7 +6,27 @@ body{
   background-color: var(--body-theme);
 }
 
-.bg-img{
-  background-image: url(//placehold.it/600x360);
+.bg-img1{
+  background-image: url(https://www.deere.com/assets/images/common/home-page/may-homepage-jdstore.jpg);
+  background-size: cover;
+}
+.bg-img2{
+  background-image: url(https://www.deere.com/assets/images/common/home-page/ag-march-5m-teaser-632x384.jpg);
+  background-size: cover;
+}
+.bg-img3{
+  background-image: url(https://www.deere.com/assets/images/common/home-page/350g-lc-sg-632x384.jpg);
+  background-size: cover;
+}
+.bg-img4{
+  background-image: url(https://www.deere.com/assets/images/common/home-page/768l-ii-skidder.jpg);
+  background-size: cover;
+}
+.bg-img5{
+  background-image: url(https://www.deere.com/assets/images/common/home-page/deere-season-march-632x384.jpg);
+  background-size: cover;
+}
+.bg-img6{
+  background-image: url(https://www.deere.com/assets/images/common/home-page/buyonline3-nmb.jpg);
   background-size: cover;
 }
